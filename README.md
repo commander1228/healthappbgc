@@ -1,6 +1,6 @@
 # healthappbgc
 
-A new Flutter project.
+An app to help monitor the health of young students
 
 ## Getting Started
 
